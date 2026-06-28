@@ -4,7 +4,7 @@ import com.app.bankingproject.account.dto.AccountCreationRequest;
 import com.app.bankingproject.account.dto.AccountResponse;
 import com.app.bankingproject.account.entity.Account;
 import com.app.bankingproject.account.repository.AccountRepository;
-import com.app.bankingproject.customer.entiry.Customer;
+import com.app.bankingproject.customer.entity.Customer;
 import com.app.bankingproject.customer.repository.CustomerRepository;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;

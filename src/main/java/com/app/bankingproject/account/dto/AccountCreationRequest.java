@@ -1,6 +1,6 @@
 package com.app.bankingproject.account.dto;
 
-import com.karthi.bank730.account.enums.AccountType;
+import com.app.bankingproject.account.enums.AccountType;
 
 import java.math.BigDecimal;
 

@@ -1,7 +1,7 @@
 package com.app.bankingproject.account.entity;
 
 import com.app.bankingproject.account.enums.AccountType;
-import com.app.bankingproject.customer.entiry.Customer;
+import com.app.bankingproject.customer.entity.Customer;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
