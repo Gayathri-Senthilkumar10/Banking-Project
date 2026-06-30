@@ -2,7 +2,7 @@ package com.app.bankingproject.customer.service;
 
 import com.app.bankingproject.customer.dto.CustomerCreationRequest;
 import com.app.bankingproject.customer.dto.CustomerResponse;
-import com.app.bankingproject.customer.entiry.Customer;
+import com.app.bankingproject.customer.entity.Customer;
 import com.app.bankingproject.customer.repository.CustomerRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatusCode;
